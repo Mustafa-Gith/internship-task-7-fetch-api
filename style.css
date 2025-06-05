@@ -1,0 +1,17 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background: #f0f0f0;
+}
+
+#userContainer {
+  margin-top: 20px;
+}
+
+.user-card {
+  background: white;
+  padding: 15px;
+  margin-bottom: 15px;
+  border-left: 5px solid #0052cc;
+  box-shadow: 0 0 5px rgba(0,0,0,0.1);
+}
